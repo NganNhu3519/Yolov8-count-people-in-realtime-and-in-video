@@ -8,3 +8,5 @@ Step 5: Follow comments in the code file
 
 *Note:
 choose_are_image.py and choose_area_video.py are code to help you obtain coordinates of 2 area of your project faster
+
+Contact me via IG: nagnukt
